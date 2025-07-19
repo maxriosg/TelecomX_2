@@ -54,7 +54,7 @@ Desarrollar modelos predictivos capaces de identificar clientes con alta probabi
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/TelecomX_2.git
+   git clone https://github.com/maxriosg/TelecomX_2.git
    ```
 
 2. Abre el archivo `TelecomX_2.ipynb` en Google Colab.
@@ -63,7 +63,6 @@ Desarrollar modelos predictivos capaces de identificar clientes con alta probabi
 
 ## 📌 Créditos
 
-Desarrollado por: **Tu Nombre o Equipo**  
-Rol: Analista Junior de Machine Learning  
-Desafío: Parte 2 – Predicción de Cancelación – Telecom X  
+Desarrollado por: Maximiliano Ríos  
+Desafío: Parte 2 – Predicción de Cancelación – Telecom X - Alura Latam 
 Plataforma: [Google Colab](https://colab.research.google.com/)
